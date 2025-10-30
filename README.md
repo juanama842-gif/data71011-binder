@@ -1,1 +1,1 @@
-this file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juanama842-gif/data71011-binder/blob/main/README.md/HEAD)
